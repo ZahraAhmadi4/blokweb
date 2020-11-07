@@ -73,16 +73,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** -Responsive-
 
-**Je opdracht:** -Nu.nl-
+**Je opdracht:** -Bol.com-
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/homepagina" width="375px" alt="Dit is de homepagina van Nu.nl. Het bestaat uit een navigatiebar en menubar. En 
-daarnaast bestaat het veelal uit artikelen.">
+<img src="images/home.jpg" width="375px" alt="Dit is de homepagina van Bol.com. Het bestaat uit een navigatiebar en menubar. En 
+daarnaast bestaat het uit vele productblokken.">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/hetweer" width="375px" alt="Op deze pagina kunnen gebruikers het weer volgen.">
+<img src="images/product.jpg" width="375px" alt="Dit is de pagina waar ze op belanden als ze daarnaar hebben gezocht in de navigatiebar.">
 
 
 
