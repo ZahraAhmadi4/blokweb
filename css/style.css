@@ -1,0 +1,313 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+@font-face {
+  font-family: The Greatest Font;
+  src: url(thegreatestfont.otf);
+}
+
+body{
+	font-family: Avenir, Matterhorn, InspireTWDC, Helvetica, sans-serif;
+}
+
+
+img#logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+ul.nav-list{
+  background-color: black;
+  width: 100%;
+  height: 300px;
+}
+
+.navlist{
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 600;
+  
+
+}
+
+li a.navlist{
+  padding: 2em;
+}
+
+.navlist2{
+  text-decoration: none;
+  color: white;
+
+}
+
+
+div.menu{
+ 
+}
+
+div.line1{
+  background-color: red;
+  width: 14px;
+  height: 2px;
+  margin: 0.2em;
+}
+ 
+
+div.line2{
+  background-color: red;
+  width: 14px;
+  height: 2px;
+  margin: 0.2em;
+}
+
+
+
+
+section.actie{
+  background-color: black;
+  padding-bottom: 4em;
+  text-align: center;
+  color: white;
+}
+
+img#imgactie{
+  width: 100%;
+}
+
+h2{
+  font-weight: 200;
+  font-size: 28px;
+  padding: 1em 1em 0em 1em;
+}
+
+#introp{
+  padding: 0.5em;
+  font-weight: 100;
+}
+
+
+button#shop-btn{
+  padding: 1em 5em 1em 5em;
+  background-color: #f6d56d;
+  color: black;
+  border-radius: 25px;
+  border: none;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin: 0.5em;
+}
+
+a#shop{
+  font-weight: 500;
+}
+
+#introp-2{
+  font-size: 11px;
+  font-weight: 100;
+  margin-top: 1.5em;
+
+}
+
+
+.main-content{
+  background-color: #061435;
+  margin-top: 0.5em;
+
+}
+
+
+
+.content-li{
+  background-color: #0E174D;
+   margin: 1em;
+   text-decoration: none;
+   list-style-type: none;
+   color: white;
+}
+
+.content-li2{
+  background-color: #122D62;
+  margin: 1em;
+   text-decoration: none;
+   list-style-type: none;
+   color: white;
+}
+
+img#imgtwee{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	width: 50%;
+  
+  
+}
+
+img.imgshow{
+  width: 100%;
+  margin: 0;
+  background-image:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,1));
+}
+
+h3#show1{
+  font-family: The Greatest Font;
+  font-size: 35px;
+  padding: 0.5em 2em 0.5em 2em;
+  transform: rotate(-5deg);
+
+}
+
+button#stream{
+  background-color: #0066cc;
+  color: white;
+  text-transform: uppercase;
+  font-size: 16px;
+  padding: 1em 5em 1em 5em;
+  border-radius: 25px;
+  border: none;
+  margin: 0.5em 2em 3em 2em;
+}
+
+a#stream{
+  text-decoration: none;
+  color: white;
+  font-weight: 400;
+}
+
+
+h3.titleshow{
+  font-size: 20px;
+  font-weight: 300;
+  padding: 1em 1em 0em 1em;
+}
+
+p.p-show{
+ font-size: 13px;
+  font-weight: 200;
+  padding: 1em 2em 0em 1.6em;
+}
+
+p.stream-show{
+ font-size: 12px;
+  font-weight: 700;
+  padding: 2em;
+  text-transform: uppercase;
+
+}
+
+button#abonneer-btn{
+  padding: 1em 5em 1em 5em;
+  border-radius: 25px;
+  border: none;
+  margin: 4em 4em 1em 4em;
+  background-color: white;
+}
+
+a#abonneer-btn{
+  text-decoration: none;
+  color: #0E174D;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+p#prijs{
+  color: white;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 100;
+  padding: 0em 2em 4em 2em;
+}
+
+section.films{
+  background-color: #eee;
+}
+
+h2#film{
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+ul.filmlist{
+  display: flex;
+  flex-direction: row;
+  margin-top: 2em;
+
+}
+
+li.film-list{
+  list-style-type: none;
+  padding: 0em 0.5em 0em 0.5em;
+  min-width: 50%;
+  min-height: 100px;
+  overflow-x: auto;
+}
+
+img.film-show{
+  border-radius: 3px;
+  width: 100%;
+  margin: 5px;
+
+}
+
+h3.filmshow-title{
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 4em;
+}
+
+
+
+
+footer{
+  text-align: center;
+}
+
+a.footerlinks{
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+
+}
+
+
+li.footerlinks{
+  margin: 0em 1em 1em 1em;
+  list-style-type: none;
+}
+
+
+p#copy{
+  font-size: 12px;
+  margin-bottom: 3em;
+  padding: 2em;
+}
+
+img#logo-footer{
+  width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,19 +1,115 @@
-<!doctype html>
-<html lang="nl">
-	
+<!DOCTYPE html>
+<html>
 <head>
-	<meta charset="UTF-8">
-	<meta name="author" content="jouw naam">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	<title>Howdy</title>
-	
-	<link href="styles/style.css" rel="stylesheet">
+	<meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Disney</title>
+	<link rel="stylesheet" href="css/style.css">
+    <link rel="author" href="humans.txt">
 </head>
-
 <body>
-	<h1>Howdy</h1>
-	<script src="scripts/script.js"></script>
-</body>
 	
+	<header>
+		<nav>
+			<div>
+				<img id="logo" src="images/logo.png">
+			</div>
+			<ul class="nav-list">
+				<li><a class="navlist" href="">disney+</a></li>
+				<li><a class="navlist" href="">shop</a></li>
+				<li><a class="navlist" href="">films</a></li>
+					<ul class="film-list">
+						<li><a class="navlist2" href="">Nieuw</a></li>
+						<li><a class="navlist2" href="">Mulan</a></li>
+						<li><a class="navlist2" href="">Black Widow</a></li>
+					</ul>
+				<li><a class="navlist" href="">parken</a></li>
+			</ul>
+
+			<div class="menu">
+				<div class="line1"></div>
+				<div class="line2"></div>
+			</div>
+		</nav>
+	</header>
+
+	<main>
+		<section class="actie">
+			<img id="imgactie" src="images/actie.jpg">
+			<h2>Tot 30% korting op geselecteerd speelgoed</h2>
+			<p id="introp">Uitsluitend online | Geselecteerde lijnen</p>
+			<button id="shop-btn"><a id="shop" href=""></a>Shop nu</button>
+			<p id="introp-2">Algemene voorwaarden zijn van toepassing</p>
+		</section>
+
+		<section class="main-content">
+			<article>
+				<ul class="maincontent-list">
+					<img id="imgtwee" src="images/disney.svg">
+					<li class="content-li">
+						<img class="imgshow" src="images/showman.jpg">
+						<h3 id="show1">The greatest showman</h3>
+						<button id="stream"><a id="stream" href="">Stream nu</a></button>
+					</li>
+
+					<li class="content-li2">
+						<img class="imgshow" src="images/manda.jpg">
+						<h3 class="titleshow">The Mandalorian Seizoen 2</h3>
+						<p class="p-show">The Mandalorian en the Child zetten hun reis door een gevaarlijk stelsel door.</p>
+						<p class="stream-show">Disney+</p>
+					</li>
+
+					<li class="content-li2">
+						<img class="imgshow" src="images/show3.jpg">
+						<h3 class="titleshow">Alles wat je in december op Disney+ kunt bekijken</h3>
+						<p class="p-show">Van feestelijke favorieten tot exclusieve films, dit zijn onze topkeuzes voor december.</p>
+						<p class="stream-show">Disney+</p>
+					</li>
+				</ul>
+
+				<button id="abonneer-btn"><a id="abonneer-btn" href="">abonneer nu</a></button>
+				<p id="prijs">* Meld je nu aan voor €6,99 per maand of €69,99 per jaar</p>
+			</article>
+		</section>
+
+
+
+		<section class="films">
+			<h2 id="film">Films</h2>
+			<ul class="filmlist">
+				<li class="film-list">
+					<img class="film-show" src="images/raya.jpg">
+					<h3 class="filmshow-title">Raya en de laatste draak</h3>
+				</li>
+
+				<li class="film-list">
+					<img class="film-show" src="images/mulan.jpg">
+					<h3 class="filmshow-title">Mulan</h3>
+				</li>
+
+				<li class="film-list">
+					<img class="film-show" src="images/blackwidow.jpg">
+					<h3 class="filmshow-title" >Black widow</h3>
+				</li>
+			</ul>
+		</section>
+	</main>
+
+	
+	<footer>
+		<img id="logo-footer" src="images/logo.png">
+
+		<ul class="footer-links">
+			<li class="footerlinks"><a class="footerlinks" href="">Disney+</a></li>
+			<li class="footerlinks"><a class="footerlinks"  href="">Shop</a></li>
+			<li class="footerlinks"><a class="footerlinks"  href="">Films</a></li>
+		</ul class="socialmedia">
+		
+		<p id="copy">&copy; Disney &copy; Disney-Pixar &copy; Marvel, Alle Rechten Voorbehouden</p>
+		
+	</footer>
+
+	<script type="text/javascript" src="js/script.js"></script>
+</body>
 </html>

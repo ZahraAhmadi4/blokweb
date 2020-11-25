@@ -6,9 +6,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. -bron 1: Disney https://disney.nl/ 
+2. -bron 2- Plaatje Black Widow https://www.marvel.com/movies/black-widow
+3. -bron 3- Plaatje Raya en de draak https://disney.nl/films/raya-en-de-laatste-draak
+4. -bron 4- Font 'The greatest showman' https://famfonts.com/greatest-showman/#:~:text=The%20Greatest%20Font%20by%20Franco,It%20is%20a%20free%20font.
+5. -bron 5- Black Friday plaatje https://disney.nl/
+6. -bron 6- Disney Plus logo https://www.internetmatters.org/nl/hub/news-blogs/disney-plus-review/
+7. -bron 7- The Greatest Showman plaatje https://kinepolis.be/nl/events/greatest-showman
+8. -bron 8- Mulan plaatje https://disney.nl/films/mulan-2020
+9. -bron 9- Disney logo https://purepng.com/photo/1586/logos-disney-logo
+10. -bron 10- The Mandalorian plaatje https://www.gamesradar.com/the-mandalorian-season-2-episode-1-easter-eggs-references/
+11. -bron 11- Plaatje https://lumiere-a.akamaihd.net/v1/images/disneyplusdecembersoulmobile_m_2e73201b.jpeg?region=0,0,800,600 
+
 
 
 
@@ -64,13 +73,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
 
-<img src="images/homepagina.jpg" width="375px">
-<img src="images/header.jpg" width="375px">
-<img src="images/section1.jpg" width="375px">
-<img src="images/section2.jpg" width="375px">
-<img src="images/section3.jpg" width="375px">
-<img src="images/section4.jpg" width="375px">
-<img src="images/footer.jpg" width="375px">
+<img src="images/screenshots/1.jpg" width="375px">
+<img src="images/screenshots/2.jpg" width="375px">
+
 
 
 ## Intake (week 1)
@@ -80,16 +85,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** -Responsive-
 
-**Je opdracht:** -Bol.com-
+**Je opdracht:** -De website van Disney.nl namaken.-
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/home.jpg" width="375px" alt="Dit is de homepagina van Bol.com. Het bestaat uit een navigatiebar en menubar. En 
-daarnaast bestaat het uit vele productblokken.">
+<img src="images/screenshots/home.jpg" width="375px" alt="Dit is de homepagina van Disney.">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/product.jpg" width="375px" alt="Dit is de pagina waar ze op belanden als ze daarnaar hebben gezocht in de navigatiebar.">
+<img src="images/screenshots/page2.jpg" width="375px" alt="Dit is de pagina van de film Black Widow.">
 
 
 
