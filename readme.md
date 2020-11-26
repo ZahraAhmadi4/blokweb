@@ -11,7 +11,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 3. -bron 3- Plaatje Raya en de draak https://disney.nl/films/raya-en-de-laatste-draak
 4. -bron 4- Font 'The greatest showman' https://famfonts.com/greatest-showman/#:~:text=The%20Greatest%20Font%20by%20Franco,It%20is%20a%20free%20font.
 5. -bron 5- Black Friday plaatje https://disney.nl/
-6. -bron 6- Disney Plus logo https://www.internetmatters.org/nl/hub/news-blogs/disney-plus-review/
+6. -bron 6- Disney Plus logo https://www.logo.wine/logo/Disney%2B?logo=White 
 7. -bron 7- The Greatest Showman plaatje https://kinepolis.be/nl/events/greatest-showman
 8. -bron 8- Mulan plaatje https://disney.nl/films/mulan-2020
 9. -bron 9- Disney logo https://purepng.com/photo/1586/logos-disney-logo
@@ -47,20 +47,29 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-Het maken van de website ging echt uitzonderlijk goed. Ik zat lekker te coderen. Ik heb me voor nu ook alleen gefocust op de mobiele formaat, zodra dit helemaal op orde is ga ik verder met de tablet versie en zo bouw ik verder op naar het grote scherm. 
+Wat ik heel lastig vond was de hamburgermenu. Ik heb er lang mee zitten spelen, maar ik kwam er uiteindelijk niet uit. En verder is de horizontale scrollbar onder het kopje 'films' niet echt gelukt.-
 
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent met korte uitleg-
 
+<img src="images/screenshots/voortgang-1/vg1.jpg" width="375px">
+<img src="images/screenshots/voortgang-1/vg2.jpg" width="375px">
+<img src="images/screenshots/voortgang-1/vg3.jpg" width="375px">
+<img src="images/screenshots/voortgang-1/vg4.jpg" width="375px">
+<img src="images/screenshots/voortgang-1/vg5.jpg" width="375px">
+<img src="images/screenshots/voortgang-1/vg6.jpg" width="375px">
+
+
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
+| Zahra		     | Thijs	          | Rosan	     | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+| - Hamburgermenu| en dit             | en ik dit    | en dan ik dat    |
+| - Flexbox (horizontale scrollbar) | dit als er tijd is | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 ### Verslag van meeting

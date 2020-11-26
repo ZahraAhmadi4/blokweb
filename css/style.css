@@ -18,7 +18,8 @@ img#logo{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
+  width: 25%;
+
 }
 
 ul.nav-list{
@@ -290,7 +291,8 @@ p#copy{
 }
 
 img#logo-footer{
-  width: 80%;
+  width: 35%;
+  margin-top: 3em;
 }
 
 
