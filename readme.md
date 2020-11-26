@@ -68,8 +68,8 @@ Wat ik heel lastig vond was de hamburgermenu. Ik heb er lang mee zitten spelen, 
 
 | Zahra		     | Thijs	          | Rosan	     | student 4        |
 | ---            | ---                | ---          | ---              |
-| - Hamburgermenu| en dit             | en ik dit    | en dan ik dat    |
-| - Flexbox (horizontale scrollbar) | dit als er tijd is | nog een punt | dit wil ik zeker |
+| - Hamburgermenu| Plaatje waar is het? | Hamburgermenu | en dan ik dat    |
+| - Flexbox (horizontale scrollbar) | Image responsive | nog een punt | dit wil ik zeker |
 | ...            | ...                | ...          | ...              |
 
 ### Verslag van meeting
