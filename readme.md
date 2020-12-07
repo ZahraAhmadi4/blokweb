@@ -17,6 +17,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 9. -bron 9- Disney logo https://purepng.com/photo/1586/logos-disney-logo
 10. -bron 10- The Mandalorian plaatje https://www.gamesradar.com/the-mandalorian-season-2-episode-1-easter-eggs-references/
 11. -bron 11- Plaatje https://lumiere-a.akamaihd.net/v1/images/disneyplusdecembersoulmobile_m_2e73201b.jpeg?region=0,0,800,600 
+12. -bron 12- Plaatje Soul https://www.google.com/search?q=soul&rlz=1C5CHFA_enNL866NL866&sxsrf=ALeKk00nZ8mQqbwcC3pjP15bLdSjaXn-Qw:1606675545855&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiXzLfptKjtAhXB-KQKHbxwD14Q_AUoAXoECAYQAw&cshid=1606675689950760&biw=971&bih=878#imgrc=4eHxJjpXwMjrWM 
+13. -bron 13- Tekst en video's Black Widow https://disney.nl/films/black-widow 
 
 
 
@@ -74,7 +76,11 @@ Wat ik heel lastig vond was de hamburgermenu. Ik heb er lang mee zitten spelen, 
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+-Het gesprek was vrij snel voorbij. We lieten elk onze voortgang zien. 
+Ik was goed op weg en ik werd op weg geholpen met de horizontale scrollbar 
+die ik wilde maken. Dat is inmiddels ook opgelost! Met het hamburgermenu gaat
+het ook goed. Ik heb er nu een staan. Het is nog niet helemaal perfect, maar
+daar kan ik de komende week mee verder aan de slag.-
 
 
 
