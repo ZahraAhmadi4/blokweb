@@ -11,17 +11,12 @@
 <body>
 		<nav>
 			<div>
-				<img id="logo" src="images/logo.png">
+				<img href="index.html" id="logo" src="images/logo.png">
 			</div>
 			<ul class="nav-list">
 				<li><a class="navlist" href="">disney+</a></li>
 				<li><a class="navlist" href="">shop</a></li>
 				<li><a class="navlist" href="">films</a></li>
-					<ul class="film-list">
-						<li><a class="navlist2" href="">Nieuw</a></li>
-						<li><a class="navlist2" href="">Mulan</a></li>
-						<li><a class="navlist2" href="">Black Widow</a></li>
-					</ul>
 				<li><a class="navlist" href="">parken</a></li>
 			</ul>
 			
@@ -33,9 +28,11 @@
 	<main>
 	
 		<section class="headerbw">
-			<img src="images/">
-			<p>Binnenkort te zien</p>
-			<button>Bekijk de trailer</button>
+			<img id="headerimgbw" src="images/bw.jpg">
+			<img id="bwlogo" src="images/bwlogo.png">
+				<p>Binnenkort te zien</p>
+				<button>Bekijk de trailer</button>
+	
 		</section>
 
 		<section class="info">
@@ -53,16 +50,22 @@
 
 		<section class="trailers">
 			<h2>Video's</h2>
-			<ul>
+			<ul class="trailers">
 				<li>
-					<video></video>
-					<button>2:27</button>
-					<p>Black Widow-trailer 2</p>
+					<video controls width="250">
+
+					    <source src="video/bw.mov"
+					            type="video/mp4">
+					</video>
+					<p>Black Widow-trailer 1</p>
 				</li>
 				<li>
-					<video></video>
-					<button>2:11</button>
-					<p>Black Widow-trailer 1</p>
+					<video controls width="250">
+
+					    <source src="video/bw.mov"
+					            type="video/mp4">
+					</video>
+					<p>Black Widow-trailer 2</p>
 				</li>
 			</ul>
 		</section>

@@ -26,7 +26,6 @@ img#logo{
 .menu{
   width: 17px;
   height: 2px;
-  position: fixed;
   top: 23px;
   left: 18px;
   cursor: pointer;
@@ -49,8 +48,7 @@ nav{
 }
 
 .nav-list{
-  display: flex;
-  justify-content: space-around;
+  margin-top: 0.5em;
   width: 50%;
 
 }
@@ -326,8 +324,8 @@ img#logo-footer{
   .nav-list{
     position: fixed;
     right: 0px;
-    height: 50vh;
-    top: 12vh;
+    height: 35vh;
+    top: 8vh;
     background-color: white;
     color: black;
     display: flex;
@@ -374,6 +372,95 @@ img#logo-footer{
 .toggle .line2{
   transform: rotate(45deg) translate(-4px,-1.2px);
 }
+
+
+
+
+/* second page */
+
+img#headerimgbw{
+  width: 100%;
+}
+
+img#bwlogo{
+  width: 90%;
+
+
+}
+
+section.headerbw{
+  background-color: black;
+  text-align: center;
+  margin-bottom: 1em;
+  padding-bottom: 1.5em;
+  color: white;
+  background: linear-gradient(#333, #000);
+}
+
+section.headerbw p{
+  font-size: 18px;
+
+}
+
+section.headerbw button{
+  border-radius: 25px;
+  background-color: white;
+  color: black;
+  padding: 1em 2em 1em 2em;
+  margin-top: 1em;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 500;
+  border: none;
+}
+
+
+
+section.info h2{
+
+}
+
+section.info img{
+  width: 40%;
+  border-radius: 5px;
+  padding-left: 1em;
+
+}
+
+section.trailers h2{
+  font-weight: 400;
+
+}
+
+ul.trailers{
+  display: flex;
+  flex-direction: row;
+  margin-top: 1em;
+  margin-left: 0.2em;
+  margin-bottom: 3em;
+  overflow-x: auto;
+
+}
+
+ul.trailers li{
+  list-style-type: none;
+  padding: 0.25em;
+  margin: 0.5em;
+  min-height: 100px;
+
+}
+
+video{
+  border-radius: 3px;
+}
+
+
+
+
+
+
+
+
 
 
 

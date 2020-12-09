@@ -19,6 +19,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 11. -bron 11- Plaatje https://lumiere-a.akamaihd.net/v1/images/disneyplusdecembersoulmobile_m_2e73201b.jpeg?region=0,0,800,600 
 12. -bron 12- Plaatje Soul https://www.google.com/search?q=soul&rlz=1C5CHFA_enNL866NL866&sxsrf=ALeKk00nZ8mQqbwcC3pjP15bLdSjaXn-Qw:1606675545855&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiXzLfptKjtAhXB-KQKHbxwD14Q_AUoAXoECAYQAw&cshid=1606675689950760&biw=971&bih=878#imgrc=4eHxJjpXwMjrWM 
 13. -bron 13- Tekst en video's Black Widow https://disney.nl/films/black-widow 
+14. -bron 14- Trailer video http://www.hd-trailers.net/movie/black-widow/
 
 
 
@@ -41,7 +42,43 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+-Ik ben verder gegaan met het maken van de hamburgermenu en de horizontale scrollbar en ze zeiden beide gelukt! Echter is er één klein dingetje bij de hamburgermenu waar ik niet zo tevreden over ben, maar als ik daar nog even naar kijk, weet ik dat het goed komt. Ik heb de tweede pagina nu ook al gemaakt. Daar moet ik alleen de tekst om het plaatje van de Black Widow poster zien te krijgen en dan ben ik voor de mobiele versie klaar. Dat gaat me deze week nog wel lukken en dan zal ik de volgende week verder gaan met het responsive maken van de website. #spannend, maar leuk.
+
+**Screenshot(s):**
+
+-screenshot(s) van hoe ver je bent met korte uitleg-
+
+<img src="images/screenshots/voortgang-2/1.png" width="375px">
+Hamburgermenu staat er!
+
+<img src="images/screenshots/voortgang-2/2.png" width="375px">
+De horizontale scrollbar staat er ook en werkt helemaal volgens verwachting.
+
+<img src="images/screenshots/voortgang-2/3.png" width="375px">
+Header van de tweede pagina.
+
+<img src="images/screenshots/voortgang-2/4.png" width="375px">
+Hier moet ik de tekst dus om die foto zetten.
+
+<img src="images/screenshots/voortgang-2/5.png" width="375px">
+Hier de video's neergezet. Ook goed gelukt met flexbox. 
+
+
+
+### Agenda voor meeting
+
+-samen met je groepje opstellen-
+
+| Zahra		     | Thijs	          | Rosan	     | student 4        |
+| ---            | ---                | ---          | ---              |
+| - Hamburgermenu| Plaatje waar is het? | Hamburgermenu | en dan ik dat    |
+| - Flexbox (horizontale scrollbar) | Image responsive | nog een punt | dit wil ik zeker |
+| ...            | ...                | ...          | ...              |
+
+### Verslag van meeting
+
 
 
 
