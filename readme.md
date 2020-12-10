@@ -73,9 +73,10 @@ Hier de video's neergezet. Ook goed gelukt met flexbox.
 
 | Zahra		     | Thijs	          | Rosan	     | student 4        |
 | ---            | ---                | ---          | ---              |
-| - Hamburgermenu| Plaatje waar is het? | Hamburgermenu | en dan ik dat    |
-| - Flexbox (horizontale scrollbar) | Image responsive | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| - Hamburgermenu 
+scrollt mee (blijft 
+niet op zijn plek zitten)| Geen vragen. | Animatie |
+| ...            | ...                | Hamburgermenu (wat dieper op ingaan)        | ...              |
 
 ### Verslag van meeting
 
