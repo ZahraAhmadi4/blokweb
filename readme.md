@@ -36,9 +36,40 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
+
+-Ik ben nu klaar met de mobiele versie. Die ziet er helemaal goed uit en nu ga ik verder met het responsive maken van de website. 
+
+ **Screenshot(s):**
+
+-screenshot(s) van hoe ver je bent met korte uitleg-
+
+<img src="images/screenshots/voortgang-3/1.png" width="375px">
+Tekst om het plaatje gekregen!
+
+<img src="images/screenshots/voortgang-3/2.png" width="375px">
+De video's staan er!
+
+<img src="images/screenshots/voortgang-3/3.png" width="375px">
+Hamburgermenu werkt volledig en staat er volgens mijn wens.
 
 
+
+
+### Agenda voor meeting
+
+-samen met je groepje opstellen-
+
+| Zahra		     | Thijs	          | Rosan	     | student 4        |
+| ---            | ---                | ---          | ---              |
+| - Hamburgermenu 
+scrollt mee (blijft 
+niet op zijn plek zitten)| Geen vragen. | Animatie |
+| ...            | ...                | Hamburgermenu (wat dieper op ingaan)        | ...              |
+
+### Verslag van meeting
+De docent heeft me verder geholpen met de enkele kleine problemen waar ik tegenliep. 
+Deze heb ik genoteerd en verwerkt in mijn code. Het is nu opgelost.
 
 ## Voortgang 2 (week 5)
 
@@ -79,7 +110,8 @@ niet op zijn plek zitten)| Geen vragen. | Animatie |
 | ...            | ...                | Hamburgermenu (wat dieper op ingaan)        | ...              |
 
 ### Verslag van meeting
-
+De docent heeft me verder geholpen met de enkele kleine problemen waar ik tegenliep. 
+Deze heb ik genoteerd en verwerkt in mijn code. Het is nu opgelost.
 
 
 
