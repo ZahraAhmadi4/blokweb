@@ -62,14 +62,11 @@ Hamburgermenu werkt volledig en staat er volgens mijn wens.
 
 | Zahra		     | Thijs	          | Rosan	     | student 4        |
 | ---            | ---                | ---          | ---              |
-| - Hamburgermenu 
-scrollt mee (blijft 
-niet op zijn plek zitten)| Geen vragen. | Animatie |
-| ...            | ...                | Hamburgermenu (wat dieper op ingaan)        | ...              |
+| Welke formaten voor responsive?| | |
+| ...            | ...                |        | ...              |
 
 ### Verslag van meeting
-De docent heeft me verder geholpen met de enkele kleine problemen waar ik tegenliep. 
-Deze heb ik genoteerd en verwerkt in mijn code. Het is nu opgelost.
+
 
 ## Voortgang 2 (week 5)
 
