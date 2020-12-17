@@ -62,7 +62,7 @@ Hamburgermenu werkt volledig en staat er volgens mijn wens.
 
 | Zahra		     | Thijs	          | Rosan	     | student 4        |
 | ---            | ---                | ---          | ---              |
-| Welke formaten voor responsive?| | |
+| Geen vragen | | Geen vragen | Geen vragen
 | ...            | ...                |        | ...              |
 
 ### Verslag van meeting
