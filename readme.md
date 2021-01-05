@@ -26,11 +26,40 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+-dit ging goed: Ik ben blij met welke website ik gekozen heb om na te maken. Het was een leuke opdracht en de website van Disney was op alle vlakken leuk om na te maken. De mobiele versie was eenvoudig te maken en hier had ik bijna geen problemen mee. De hamburgermenu was dan met behulp van de docent gelukt en verder ging alles goed.-
+
+
+-dit was lastig: Het responsive maken van de website was het lastigst. Zoals te zien ziet dat er niet heel goed uit na de 40em, geloof ik. Mijn focus lag op de surface en daar ben ik tevereden mee. Ik heb ook niet veel tijd gehad om aandacht aan het responsive maken van de website, te besteden.-
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+<img src="images/screenshots/eindresultaat/1.png" width="375px">
+
+<img src="images/screenshots/eindresultaat/2.png" width="375px">
+
+<img src="images/screenshots/eindresultaat/3.png" width="375px">
+
+<img src="images/screenshots/eindresultaat/4.png" width="375px">
+
+<img src="images/screenshots/eindresultaat/5.png" width="375px">
+
+
+## Toegankelijkheid verslagje
+
+Om te bekijken hoe mijn website voorgelezen wordt aan een blinde persoon, heb ik er met een screenreader naar gekeken. Het gebruik ervan was even wennen, maar het is me gelukt. Overall was het duidelijk op welk element ik stond. Er werd verteld of een button naar een link zou leiden, bij een plaatje wat er te zien is (deze heb ik wel veranderd toen ik er de eerste niet zo tevreden over was. Ik heb de tekst veranderd, zodat gebruikers echt een beeld hebben van wat er op dat plaatje te zien is). 
+
+<img src="images/screenshots/altimg.png" width="375px">
+Hier is te zien hoe het een plaatje zou toelichten.
+
+<img src="images/screenshots/knop2.png" width="375px">
+Hier pakte de screenreader het knopje niet en dat was heeeeel frustrerend. Ik zag het gebeuren en ik kon er niet mee leven, dus ik kan begrijpen hoe dit voor blinde mensen echt hoofdpijn kan zorgen.
+
+<img src="images/screenshots/knop.png" width="375px">
+Hier pakte hij het wel! Hij sprak de tekst van de button en het was eindelijk duidelijk waar de button mij naartoe zou leiden. 
+
+Conclusie screenreader:
+
+Ik vond het op sommige momenten echt frustrerend om van een screenreader gebruik te maken. Hij pakte het niet altijd en ik moest echt wennen, maar dit is logisch. Ik begrijp nu wel waarom toegankelijkheid zo belangrijk is en waarom wij als developers hier aandacht aan moeten besteden. Er is nog altijd een grote groep mensen die blind of slechtziend zijn en die willen zo een website ook makkelijk kunnen gebruiken. Dit is de eerste keer dat ik een screenreader heb gebruikt en mijn besef is groter geworden voor blinden en slechtzienden. Zo ben ik de alt-teksten van mijn plaatjes exacter gaan beschrijven. Het is belangrijk om voor zulke mensen alles een specifieke beschrijving te geven en goed op semantisch correcte code let. Ik zal dit zeker meenemen. Het was leuk om hiermee geoefend te hebben.
 
 
 
@@ -38,7 +67,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--Ik ben nu klaar met de mobiele versie. Die ziet er helemaal goed uit en nu ga ik verder met het responsive maken van de website. 
+-Ik ben nu klaar met de mobiele versie. Die ziet er goed uit, maar daar ga ik meer aandacht aan besteden en misschien als ik tijd over had proberen tot zo ver ik het kan het responsive te maken.
 
  **Screenshot(s):**
 
@@ -66,7 +95,7 @@ Hamburgermenu werkt volledig en staat er volgens mijn wens.
 | ...            | ...                |        | ...              |
 
 ### Verslag van meeting
-
+We hadden eigenlijk niet zoveel aan de meeting, gedeeltelijk doordat we geen vragen hadden, maar ook omdat we geen voortgang hadden geboekt sinds het laatste gesprek. We hebben lekker besproken wat we in de vakantie zouden doen. :)
 
 ## Voortgang 2 (week 5)
 
@@ -165,7 +194,7 @@ daar kan ik de komende week mee verder aan de slag.-
 
 **Je startniveau:** -Rood-
 
-**Je focus:** -Responsive-
+**Je focus:** -Surface-
 
 **Je opdracht:** -De website van Disney.nl namaken.-
 

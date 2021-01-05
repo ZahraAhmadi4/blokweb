@@ -9,16 +9,21 @@
     <link rel="author" href="humans.txt">
 </head>
 <body>
+	<!-- Dit is de navigatiebar -->
 		<nav>
 			<div>
-				<img id="logo" src="images/logo.png">
+				<img alt="Dit is het logo van Disney" id="logo" src="images/logo.png">
 			</div>
+
+			<!-- Dit is de navigatie list die naar verschillende pagina's leidt - in mijn geval leidt het alleen naar de homepagina, mijn tweede pagina -->
 			<ul class="nav-list">
 				<li><a class="navlist" href="index.html">disney+</a></li>
 				<li><a class="navlist" href="index.html">shop</a></li>
 				<li><a class="navlist" href="index.html">films</a></li>
 				<li><a class="navlist" href="index.html">parken</a></li>
 			</ul>
+
+			<!-- Met onderstaande twee divjes heb ik de hamburgermenu kunnen maken. Ik heb een div gebruikt omdat het geen waarde heeft en de twee lijnen alleen maar met dat mogelijk heb kunnen maken. -->
 			<div class="menu">
 				<div class="line1"></div>
 				<div class="line2"></div>
@@ -27,15 +32,15 @@
 	<main>
 	
 		<section class="headerbw">
-			<img id="headerimgbw" src="images/bw.jpg">
-			<img id="bwlogo" src="images/bwlogo.png">
+			<img alt="Hier staat Black Widow schuinlinks van haar te kijken." id="headerimgbw" src="images/bw.jpg">
+			<img alt="Dit is het logo van de film Black Widow." id="bwlogo" src="images/bwlogo.png">
 				<p>Binnenkort te zien</p>
 				<a href="index.html"><button>Bekijk de trailer</button></a>
 	
 		</section>
 
 		<section class="info">
-			<img src="images/blackwidow.jpg">
+			<img alt="Black Widow, in haar zwarte pak gekleedm kijkt met een forse blik naar voren, terwijl ze twee wapens in haar hande vasthoudt. Ze is omringd met alle andere personages uit de film." src="images/blackwidow.jpg">
 			<h2>Black Widow</h2>
 			<p>Actie, Avontuur, Sciencefiction</p>
 			<p>In de actievolle spionagethriller Black Widow van Marvel Studios wordt Natasha Romanoff, ook bekend als Black Widow, geconfronteerd met de duistere delen van haar leven, wanneer een gevaarlijke samenzwering ontstaat die verband houdt met haar verleden. Achtervolgd door een kracht die zich niet laat tegenhouden om haar uit te schakelen, moet Natasha omgaan met haar geschiedenis als spion en de verbroken relaties die in haar kielzog zijn achtergelaten, lang voordat ze een Avenger werd.</p>
@@ -47,11 +52,12 @@
 			<p>Kevin Feige</p>
 		</section>
 
+		<!-- Onderstaande section is voor de trailers en deze heb ik ook in een unordered list neergezet, aangezien ik er een horizontale scrollbar van wilde maken. -->
 		<section class="trailers">
 			<h2>Video's</h2>
 			<ul class="trailers">
 				<li>
-					<video controls width="250">
+					<video controls>
 
 					    <source src="video/bw.mov"
 					            type="video/mp4">
@@ -59,7 +65,7 @@
 					<p>Black Widow-trailer 1</p>
 				</li>
 				<li>
-					<video controls width="250">
+					<video controls>
 
 					    <source src="video/bw.mov"
 					            type="video/mp4">
@@ -69,21 +75,22 @@
 			</ul>
 		</section>
 
+		<!-- Onderstaande section is voor de films en deze heb ik ook in een unordered list neergezet, aangezien ik er een horizontale scrollbar van wilde maken. -->
 		<section class="films">
 			<h2 id="film">Meer films</h2>
 			<ul class="filmlist">
 				<li class="film-list">
-					<img class="film-show" src="images/raya.jpg">
+					<img alt="Raya staat op de voorgrond van deze filmposter, met een zwaard in haar handen en haar gezicht geschuild achter een grote rieten hoed." class="film-show" src="images/raya.jpg">
 					<h3 class="filmshow-title">Raya en de laatste draak</h3>
 				</li>
 
 				<li class="film-list">
-					<img class="film-show" src="images/mulan.jpg">
+					<img alt="Mulan staat op de voorgrond, volledig in het rood gekleed en haar halve gezicht schijnt door haar grote zwaard." class="film-show" src="images/mulan.jpg">
 					<h3 class="filmshow-title">Mulan</h3>
 				</li>
 
 				<li class="film-list"><a id="bw" href="index.html">
-					<img class="film-show" src="images/soul.jpg">
+					<img alt="Dit is de filmposter van Soul, een animatiefilm. Er staat een donkergekleurde man op de voorgrond die recht naar voren kijkt en onderin kijkt een kat stiekem toe." class="film-show" src="images/soul.jpg">
 					<h3 class="filmshow-title" >Soul</h3></a>		
 				</li>
 			</ul>
@@ -93,7 +100,7 @@
 
 
 	<footer>
-		<img id="logo-footer" src="images/logo.png">
+		<img alt="Dit is het logo van Disney" id="logo-footer" src="images/logo.png">
 
 		<ul class="footer-links">
 			<li class="footerlinks"><a class="footerlinks" href="index.html">Disney+</a></li>
@@ -105,6 +112,7 @@
 		
 	</footer>
 
+	<!-- Link naar javascript hieronder gezet, omdat ik dan zeker ben dat hij alles meeneemt -->
 	<script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>

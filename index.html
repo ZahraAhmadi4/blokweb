@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="nl">
 <head>
 	<meta charset="utf-8">
     <meta name="description" content="">
@@ -9,10 +9,14 @@
     <link rel="author" href="humans.txt">
 </head>
 <body>
+
+	<!-- Dit is de navigatiebar -->
 		<nav>
 			<div>
-				<a href="index.html"><img id="logo" src="images/logo.png"></a>
+				<a href="index.html"><img alt="Dit is het logo van Disney" id="logo" src="images/logo.png"></a>
 			</div>
+
+		<!-- Dit is de navigatie list die naar verschillende pagina's leidt - in mijn geval leidt het alleen naar de Black Widow pagina, mijn tweede pagina -->
 			<ul class="nav-list">
 				<li><a class="navlist" href="bw.html">disney+</a></li>
 				<li><a class="navlist" href="bw.html">shop</a></li>
@@ -20,6 +24,7 @@
 				<li><a class="navlist" href="bw.html">parken</a></li>
 			</ul>
 			
+		<!-- Met onderstaande twee divjes heb ik de hamburgermenu kunnen maken. Ik heb een div gebruikt omdat het geen waarde heeft en de twee lijnen alleen maar met dat mogelijk heb kunnen maken. -->
 			<div class="menu">
 				<div class="line1"></div>
 				<div class="line2"></div>
@@ -27,61 +32,69 @@
 		</nav>
 
 	<main>
+
+		<!-- Dit is de eerste section -->
 		<section class="actie">
-			<img id="imgactie" src="images/actie.jpg">
+			<img alt="Dit is een foto behorende tot de Black Friday actie" id="imgactie" src="images/actie.jpg">
 			<h2>Tot 30% korting op geselecteerd speelgoed</h2>
-			<p id="introp">Uitsluitend online | Geselecteerde lijnen</p>
+			<p id="introp">Uitsluitend online | Geselecteerde lijnen<span class='line'>|</span></p>
 			<button id="shop-btn"><a id="shop" href="bw.html">Shop nu</a></button>
 			<p id="introp-2">Algemene voorwaarden zijn van toepassing</p>
 		</section>
 
+		<!-- Dit is de tweede section, waar alle shows bij elkaar zitten. -->
 		<section class="main-content">
-			<article>
+			
+				<!-- Ik heb dit in een unordered list gezet, omdat ik de list items later gemakkelijk van positie kon veranderen -->
 				<ul class="maincontent-list">
-					<img id="imgtwee" src="images/disneyplus.svg">
+					<img alt="Dit is het logo van Disney Plus" id="imgtwee" src="images/disneyplus.svg">
 					<li class="content-li">
-						<img class="imgshow" src="images/showman.jpg">
+						<img alt="Dit is een foto van de film The Greatest Showman, met de hoofdspelers op de voorgrond." class="imgshow" src="images/showman.jpg">
 						<h3 id="show1">The greatest showman</h3>
 						<button id="stream"><a id="stream" href="bw.html">Stream nu</a></button>
 					</li>
 
+				<!-- Deze div had ik nodig om onderstaande twee shows naast elkaar te kunnen zetten dmv flexbox. Dit was vooral nodig voor de grotere formaten -->
+				<div class="li2">
 					<li class="content-li2">
-						<img class="imgshow" src="images/manda.jpg">
+						<img alt="Dit is een promo foto van de serie the Mandalorian, met een ridder die op de voorgrond staat." class="imgshow" src="images/manda.jpg">
 						<h3 class="titleshow">The Mandalorian Seizoen 2</h3>
 						<p class="p-show">The Mandalorian en the Child zetten hun reis door een gevaarlijk stelsel door.</p>
 						<p class="stream-show">Disney+</p>
 					</li>
+				
 
-					<li class="content-li2">
-						<img class="imgshow" src="images/show3.jpg">
+
+					<li class="content-li3">
+						<img alt="Dit is een animatiefilm waar een personage uit een film in dee trein zti en met een glimlach naar buiten kijkt." class="imgshow" src="images/show3.jpg">
 						<h3 class="titleshow">Alles wat je in december op Disney+ kunt bekijken</h3>
 						<p class="p-show">Van feestelijke favorieten tot exclusieve films, dit zijn onze topkeuzes voor december.</p>
 						<p class="stream-show">Disney+</p>
 					</li>
+				</div>
 				</ul>
 
 				<button id="abonneer-btn"><a id="abonneer-btn" href="bw.html">abonneer nu</a></button>
 				<p id="prijs">* Meld je nu aan voor €6,99 per maand of €69,99 per jaar</p>
-			</article>
 		</section>
 
 
-
+		<!-- Onderstaande section is voor de films en deze heb ik ook in een unordered list neergezet, aangezien ik er een horizontale scrollbar van wilde maken. -->
 		<section class="films">
 			<h2 id="film">Films</h2>
 			<ul class="filmlist">
 				<li class="film-list"><a id="bw" href="bw.html">
-					<img class="film-show" src="images/raya.jpg">
+					<img alt="Raya staat op de voorgrond van deze filmposter, met een zwaard in haar handen en haar gezicht geschuild achter een grote rieten hoed." class="film-show" src="images/raya.jpg">
 					<h3 class="filmshow-title" >Raya en de laatste draak</h3></a>		
 				</li>
 
 				<li class="film-list"><a id="bw" href="bw.html">
-					<img class="film-show" src="images/mulan.jpg">
+					<img alt="Mulan staat op de voorgrond, volledig in het rood gekleed en haar halve gezicht schijnt door haar grote zwaard." class="film-show" src="images/mulan.jpg">
 					<h3 class="filmshow-title" >Mulan</h3></a>		
 				</li>
 
 				<li class="film-list"><a id="bw" href="bw.html">
-					<img class="film-show" src="images/blackwidow.jpg">
+					<img alt="Black Widow, in haar zwarte pak gekleed, kijkt met een forse blik naar voren, terwijl ze twee wapens in haar hande vasthoudt. Ze is omringd met alle andere personages uit de film." class="film-show" src="images/blackwidow.jpg">
 					<h3 class="filmshow-title" >Black widow</h3></a>		
 				</li>
 			</ul>
@@ -90,7 +103,7 @@
 
 	
 	<footer>
-		<img id="logo-footer" src="images/logo.png">
+		<img alt="Dit is het logo van Disney" id="logo-footer" src="images/logo.png">
 
 		<ul class="footer-links">
 			<li class="footerlinks"><a class="footerlinks" href="bw.html">Disney+</a></li>
@@ -102,6 +115,7 @@
 		
 	</footer>
 
+	<!-- Link naar javascript hieronder gezet, omdat ik dan zeker ben dat hij alles meeneemt -->
 	<script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>
