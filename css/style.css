@@ -135,7 +135,6 @@ h2{
 button#shop-btn{
   padding: 1em 5em 1em 5em;
   background: linear-gradient(90deg, #c19713, #efe0b1);
-  color: black;
   border-radius: 25px;
   border: none;
   font-size: 16px;
@@ -143,10 +142,22 @@ button#shop-btn{
   margin: 0.5em;
 }
 
+#shop-btn:hover{
+  background: none;
+  border: 2px solid #c19713;
+  transition: 0.3s ease-in;
+}
+
+
 a#shop{
   font-weight: 500;
   text-decoration: none;
   color: black;
+}
+
+a#shop:hover{
+  color: white;
+  transition: 0.3s ease-in;
 }
 
 #introp-2{
@@ -182,6 +193,9 @@ a#shop{
    color: white;
 }
 
+
+/* Dit is als de gebruiker over elk list item hovert */
+
 .content-li:hover{
   transform: scale(0.9);
   transition: 0.3s;
@@ -205,9 +219,7 @@ img#imgtwee{
   display: block;
   margin-left: auto;
   margin-right: auto;
-	width: 50%;
-  
-  
+	width: 50%; 
 }
 
 img.imgshow{
@@ -511,6 +523,9 @@ gelinkt naar de Javascript code. */
   }
 }
 
+
+/* Dit is voor hoe de twee lijnen van de hamburgermenu moeten roteren, zodat ze een kruisje vormen als er op geklikt wordt. */
+
 .toggle .line1{
   transform: rotate(-45deg) translate(-4px,1.2px);
 }
@@ -519,7 +534,7 @@ gelinkt naar de Javascript code. */
   transform: rotate(45deg) translate(-4px,-1.2px);
 }
 
-}
+
 
 
 
